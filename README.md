@@ -1,4 +1,4 @@
 datasciencecoursera
 ===================
 
-Course Project for peer assessments - question two
+Course Project for peer assessments - questions two and three
